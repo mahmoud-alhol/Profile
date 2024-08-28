@@ -25,3 +25,39 @@
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-alhol&show_icons=true&locale=en&layout=compact" alt="mahmoud-alhol" />
 </p>
+<hr/>
+<h2>Featured Projects</h2>
+<a href="https://github.com/mahmoud-alhol/react-world-wise" target="_blank" rel="noopener noreferrer">react-world-wise</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-quiz" target="_blank" rel="noopener noreferrer">react-quiz</a>
+<a href="https://github.com/mahmoud-alhol/react-use-popcorn" target="_blank" rel="noopener noreferrer">react-use-popcorn</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-eat-n-split" target="_blank" rel="noopener noreferrer">react-eat-n-split</a><br/>
+<a href="https://github.com/mahmoud-alhol/featured-js-bootstrap-html-clothes-shop" target="_blank" rel="noopener noreferrer">featured-js-bootstrap-html-clothes-shop
+</a><br/>
+
+<hr/>
+
+<h2>React.js Projects</h2>
+<h3>Advanced</h3>
+<a href="https://github.com/mahmoud-alhol/react-world-wise" target="_blank" rel="noopener noreferrer">react-world-wise</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-atomic-blog" target="_blank" rel="noopener noreferrer">react-atomic-blog</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-usereducer-bank-account" target="_blank" rel="noopener noreferrer">react-usereducer-bank-account</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-quiz" target="_blank" rel="noopener noreferrer">react-quiz</a>
+<br/>
+
+<h3>Intermediate</h3>
+<a href="https://github.com/mahmoud-alhol/react-use-popcorn" target="_blank" rel="noopener noreferrer">react-use-popcorn</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-usegeolocate" target="_blank" rel="noopener noreferrer">react-usegeolocate</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-currency-converter" target="_blank" rel="noopener noreferrer">react-currency-converter</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-how-react-works" target="_blank" rel="noopener noreferrer">react-how-react-works</a><br/>
+<br/>
+
+<h3>Fundamental</h3>
+<a href="https://github.com/mahmoud-alhol/react-eat-n-split" target="_blank" rel="noopener noreferrer">react-eat-n-split</a><br/>
+<a href="https://github.com/mahmoud-alhol/react-text-expander-component" target="_blank" rel="noopener noreferrer">react-text-expander-component</a><br/>
+<p>Add the rest</p>
+<hr/>
+
+<h2>Vanilla JavaScript Projects</h2>
+<a href="https://github.com/mahmoud-alhol/featured-js-bootstrap-html-clothes-shop" target="_blank" rel="noopener noreferrer">featured-js-bootstrap-html-clothes-shop
+</a><br/>
+<a href="https://github.com/mahmoud-alhol/js-html-css-fruits-shop" target="_blank" rel="noopener noreferrer">js-html-css-fruits-shop</a>
