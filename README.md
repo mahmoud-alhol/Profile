@@ -21,10 +21,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>   
 </p>
-<hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-alhol&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mahmoud-alhol" /></p>
-<hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-alhol&theme=dark" alt="mahmoud-alhol" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-alhol&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mahmoud-alhol" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-alhol&theme=dark" alt="mahmoud-alhol" /></p>
 
 <hr/>
 <h2>Featured Projects</h2>
