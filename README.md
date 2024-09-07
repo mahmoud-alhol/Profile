@@ -22,9 +22,10 @@
   </a>   
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-alhol&show_icons=true&locale=en&layout=compact" alt="mahmoud-alhol" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-alhol&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mahmoud-alhol" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-alhol&theme=dark" alt="mahmoud-alhol" /></p>
+
 <hr/>
 <h2>Featured Projects</h2>
 <a href="https://github.com/mahmoud-alhol/react-world-wise" target="_blank" rel="noopener noreferrer">react-world-wise</a><br/>
